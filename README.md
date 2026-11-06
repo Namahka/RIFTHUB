@@ -2,7 +2,7 @@
 
 A fullstack community platform for League of Legends and Wild Rift players. Users discuss in a forum, share highlights, go live with their own streams, chat with friends and shop merch. The frontend is built in **React** and talks to a custom **Express API** with a **SQLite** database and real-time features through **Socket.IO**.
 
-![RiftHub screenshot](rifthub.png)
+![RiftHub screenshot](rifthub-preview.png)
 
 ---
 
